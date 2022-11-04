@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  <div align = 'right'>![](https://komarev.com/ghpvc/?username=Nicolai-Bak&color=blue)</div> 
 
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/nicolai-bak-412378156/)
 
